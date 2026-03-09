@@ -88,7 +88,7 @@ pip3 install tomlkit
 
 ## Credits
 
-Sensor integration and GUI updates by Martin Paz. Core concept and project direction by Daniel Dieser.
+Sensor integration and GUI updates by Martin Paz. Updates, devops by Daniel Dieser.
 
 ## License
 
